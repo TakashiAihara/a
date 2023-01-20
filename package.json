@@ -18,6 +18,6 @@
   },
   "homepage": "https://github.com/TakashiAihara/a#readme",
   "dependencies": {
-    "connect-mongo": "2.1.0"
+    "connect-mongo": "3.0.0"
   }
 }
