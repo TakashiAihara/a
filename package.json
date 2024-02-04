@@ -78,7 +78,7 @@
     "nunjucks": "^3.0.0",
     "passport": "^0.4.0",
     "passport-http": "^0.3.0",
-    "passport-saml": "^1.1.0",
+    "passport-saml": "^3.2.4",
     "project-version": "^1.0.0",
     "request-promise-native": "^1.0.7",
     "require.js": "^1.0.0",
