@@ -70,7 +70,7 @@
     "mock-express-response": "^0.2.2",
     "mockserver": "^3.1.1",
     "moment-timezone": "^0.5.13",
-    "mongoose": "^5.2.17",
+    "mongoose": "^8.8.3",
     "node-schedule-tz": "^1.2.1-4",
     "node-zip": "^1.1.1",
     "nodemailer": "^4.0.1",
